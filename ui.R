@@ -1,4 +1,7 @@
-Enter file contents herelibrary(shiny) 
+#
+# This is the user-interface definition of a Shiny web application.
+#
+library(shiny) 
 
 shinyUI
 (
